@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/wposs/OneDrive/Documentos/sourcetree/GitHub/app_control_prestamos/control_prestamos/app/src/main/res/drawable/bloqueo.xml" value="0.3503575076608784" />
+        <entry key="..\:/Users/wposs/OneDrive/Documentos/sourcetree/GitHub/app_control_prestamos/control_prestamos/app/src/main/res/drawable/desbloqueo.xml" value="0.3503575076608784" />
+        <entry key="..\:/Users/wposs/OneDrive/Documentos/sourcetree/GitHub/app_control_prestamos/control_prestamos/app/src/main/res/drawable/finger.xml" value="0.3503575076608784" />
+        <entry key="..\:/Users/wposs/OneDrive/Documentos/sourcetree/GitHub/app_control_prestamos/control_prestamos/app/src/main/res/drawable/image.xml" value="0.3503575076608784" />
+        <entry key="..\:/Users/wposs/OneDrive/Documentos/sourcetree/GitHub/app_control_prestamos/control_prestamos/app/src/main/res/layout/activity_main.xml" value="0.31979166666666664" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">control_prestamos</string>
+    <string name="titulo_activity">ADMINISTRACION DE PRESTAMOS</string>
+    <string name="c_digo_incorrecto">Acceso denegado \n Clic para recuperar acceso</string>
 </resources>
